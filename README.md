@@ -27,17 +27,3 @@ As part of this project, you will explore several key concepts and features of I
 - **Canaries**: Experiment with deploying canary releases of your application to gain insights into gradual rollouts and feature testing.
 
 - **Telemetry**: Explore Istio's telemetry and observability capabilities to gain valuable insights into your services' behavior.
-
-## Getting Started
-
-Please refer to the project's [documentation](#) for detailed instructions on setting up your local Kind Kubernetes cluster and running the sample application with Istio features enabled.
-
-## Contributions
-
-Contributions are welcome! If you have ideas for improvements or would like to expand on the project, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code, but please remember to provide attribution and refer to the license for full details.
-
-Thank you for exploring **Istio Impact**. We hope this project helps you understand the power and usefulness of Istio in a local Kubernetes environment. If you have any questions or feedback, please don't hesitate to reach out. Happy exploring!
